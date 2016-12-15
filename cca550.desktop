@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Colossal Cave Adventure
+Exec=qmlscene %u qml/Main.qml
+Icon=cca550.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

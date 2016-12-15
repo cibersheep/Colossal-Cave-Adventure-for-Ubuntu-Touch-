@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "Colosssal Cave Adventure. The first interactive fiction game.",
+    "framework": "ubuntu-sdk-15.04.6",
+    "hooks": {
+        "cca550": {
+            "apparmor": "cca550.json",
+            "desktop": "cca550.desktop"
+        }
+    },
+    "maintainer": "Joan CiberSheep <cibersheep@gmail.com>",
+    "name": "cca550.cibersheep",
+    "title": "cca550",
+    "version": "1.2"
+}
